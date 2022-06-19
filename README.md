@@ -1,0 +1,2 @@
+# python-dataviz
+'''For a final project during the course M.Sc Life Science Informatics, I worked in a Jupyter notebook in python, to visualise the example data. This assignment also required appropriate annotation of the code, as well as appropriately formatted markdown. The given data is artificial RNA binding protein data, and the goal is to construct visualisations equivalent to those available on a genome browser. The assignment also consisted of the summarisation of an article on data visualisation, to be presented in appropriately-formatted markdown'''
